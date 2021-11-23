@@ -10,7 +10,6 @@
 
  const ul = document.querySelector(".quadrati-container");
 
-
 for (let i = 1; i <= 100; i++) {
 
     const li = document.createElement("li");
