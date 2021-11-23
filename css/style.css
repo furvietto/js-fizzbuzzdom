@@ -32,17 +32,21 @@ ul li {
 }
 
 .blue {
-    background-color: cadetblue;
+    background-color: #1389b2
+    ;
 }
 
 .green {
-    background-color: green;
+    background-color: #0bd6a1
+    ;
 }
 
 .red {
-    background-color: red;
+    background-color: #f0466f
+    ;
 }
 
 .yellow {
-    background-color: yellow;
+    background-color: #ffd166
+    ;
 }
