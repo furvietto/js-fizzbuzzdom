@@ -1,0 +1,40 @@
+.container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+.box {
+    width: calc(100% / 7 - 10px);
+    height: 150px;
+}
+
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+ul li {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.blue {
+    background-color: cadetblue;
+}
+
+.green {
+    background-color: green;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
